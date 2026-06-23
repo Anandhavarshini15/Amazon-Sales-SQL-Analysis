@@ -21,7 +21,7 @@ regions and customer behaviour.
 7. Books has highest customer rating — 3.02
 8. Average order value = $657
 
-## 📊 Queries & Results
+## Queries & Results
 
 ### Query 1 — Total Sales Revenue
 - Result: $65,733,147.48
@@ -45,7 +45,7 @@ regions and customer behaviour.
 - Result: 5 out of 6 categories crossed $10.9 Million
 
 ### Query 8 — Average Product Rating
-- Result: Books highest — 3.02⭐
+- Result: Books highest — 3.02
 
 ### Query 9 — Most Popular Payment Method
 - Result: Wallet is most popular
@@ -59,6 +59,6 @@ regions and customer behaviour.
 ### Query 12 — Best Region by Category
 - Result: Middle East leads Books, Europe leads Electronics
 
-## 🛠️ Tools Used
+##  Tools Used
 - MySQL Workbench
 - Kaggle Dataset
